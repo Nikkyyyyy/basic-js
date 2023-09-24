@@ -1,3 +1,3 @@
 # basic-js
 
-I am practicing js from today.
+I am about to start js from today.
