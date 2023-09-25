@@ -1,3 +1,3 @@
 # basic-js
 
-I am about to start js from today. hiii
+I am about to start js from today. hiii my name is nikita.
