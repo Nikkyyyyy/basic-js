@@ -66,6 +66,5 @@ document.querySelector('.button').onclick = function(){
     }
     return true
 
-
 }
 
